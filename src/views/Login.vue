@@ -4,7 +4,7 @@
 
       <div class="row align-items-center">
         <div class="col" style="text-align:center">
-          <img src="../assets/image/col-6 vector.png" alt="">
+          <img src="../assets/menulogo.png">
         </div>
         <div class="col">
           <form>

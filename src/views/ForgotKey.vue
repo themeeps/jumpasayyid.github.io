@@ -9,7 +9,7 @@
             Lupa PIN?
           </div>
           <div class="image-card m-4">
-            <img src="../assets/image/undraw_forgot_password_re_hxwm 1.png" class="card-img-top" alt="">
+            <img src="../assets/undrawlogo.png" class="card-img-top">
           </div>
           <div class="card-body">
             <div class="subtitle-forgot">
